@@ -1,5 +1,5 @@
 # OLAP Operations Demo
-This project demonstrates various Online Analytical Processing (OLAP) operations using Python, pandas, and SQLite. It showcases the three main types of OLAP architectures: ROLAP, MOLAP, and HOLAP, along with common OLAP operations like slice, dice, drill-down, and roll-up.
+This assignment demonstrates various Online Analytical Processing (OLAP) operations using Python, pandas, and SQLite. It showcases the three main types of OLAP architectures: ROLAP, MOLAP, and HOLAP, along with common OLAP operations like slice, dice, drill-down, and roll-up.
 
 ## Overview
 The notebook provides hands-on examples of:
