@@ -29,7 +29,7 @@ pip install pandas numpy matplotlib seaborn
 The demo uses synthetic employee and department data:
 
 ```
-Employees Table
+### Employees Table
 emp_id: Employee ID (1-6)
 name: Employee names (Alice, Bob, Charlie, David, Eva, Frank)
 age: Ages ranging from 25 to 50
